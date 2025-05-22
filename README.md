@@ -1,16 +1,41 @@
-## Hi there 👋
+![Banner Image](src/image.png)
 
-<!--
-**Gabrieups/Gabrieups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Here are some ideas to get you started:
+<img src="src/Developer.gif" alt="mexendo no computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completas. Atualmente foco no frontend com React, mas também tenho experiência no backend com Node.js e .NET. Estou cursando Análise e Desenvolvimento de Sistemas.
+</p>
+
+<p align="left">
+    🧠 Linguagens: <strong>C#, .NET, Javascript, Typescript, HTML, CSS</strong>
+</p>
+
+<p align="left">
+    ⚙️ Frameworks e libs: <strong>.NET, ASP.NET Core, React, React Native, Node, Express, Tailwind, Bootstrap</strong>
+</p>
+
+<p align="left">
+    🗃 Bancos: <strong>SQL Server, PostgreSQL, DynamoDB</strong>
+</p>
+
+<p align="left">
+    ☁ Cloud: <strong>Azure, AWS</strong>
+</p>
+
+<p align="left">
+    🔄 Versionamento: <strong>Git, GitHub, Azure DevOps</strong>
+</p>
+
+<p align="left">
+    🚀 Deploy: <strong>Vercel, Azure App Services, GitHub Pages</strong>
+</p>
+
+<p align="left">
+    🛠 Ferramentas: <strong>Visual Studio, VS Code, Postman, Azure DevOps, Figma</strong>
+</p>
+
+<p align="left">
+    💻 Sistemas Operacionais: <strong>Windows, Linux</strong>
+</p>
