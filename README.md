@@ -46,7 +46,7 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
 
 ## My Skill Set
 
-<div>
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
