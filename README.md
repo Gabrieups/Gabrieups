@@ -1,4 +1,6 @@
-![Banner Image](src/image.png)
+<p align="center">
+  <img src="src/image.png" alt="Banner Image" />
+</p>
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
@@ -40,13 +42,15 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
     💻 Sistemas Operacionais: <strong>Windows, Linux</strong>
 </p>
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
+<div>
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
     <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -62,7 +66,8 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
+
 <div align="center">  
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -80,7 +85,8 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### DevOps
+
 <div align="center">  
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -88,7 +94,8 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
+</div>
 
 <br/>
 
@@ -96,4 +103,3 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrieups&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieups&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
