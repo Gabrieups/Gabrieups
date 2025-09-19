@@ -92,6 +92,8 @@ Olá, sou Gabriel, um desenvolvedor apaixonado por criar soluções web completa
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieups&theme=dark&rank_icon=github&hide_border=false)](https://github.com/Gabrieups/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieups&theme=dark&hide_progress=true&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieups&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieups&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
